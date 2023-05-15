@@ -1,0 +1,1 @@
+qemu-system-arm -M lm3s6965evb -kernel bin/binary.bin -serial stdio -semihosting -display none
